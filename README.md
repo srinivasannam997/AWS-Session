@@ -3,7 +3,8 @@
 Testing the project locally
 
 1. Clone this project
-git clone https://github.com/verma-kunal/AWS-Session.git
+
+git clone https://github.com/srinivasannam997/AWS-Session.git
 
 2.Setup the following environment variables - (.env) file
 DOMAIN= ""
@@ -35,7 +36,7 @@ sudo apt update
 4.Configure Node.js and npm - Guide by DigitalOcean
 Deploying the project on AWS
 1.Clone this project in the remote VM
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/srinivasannam997/AWS-Session.git
 2.Setup the following environment variables - (.env) file
 DOMAIN= ""
 PORT=3000
