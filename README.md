@@ -59,9 +59,9 @@ STATIC_DIR="./client"
 PUBLISHABLE_KEY=""
 SECRET_KEY=""
 ```
-> For this project, we'll have to set up an [Elastic IP Address](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html)for our EC2 & that would be our `DOMAIN`
+> For this project, we'll have to set up an [Elastic IP Address] (https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html)for our EC2 & that would be our `DOMAIN`
 
-3.Initialise and start the project
+3. Initialise and start the project
 ```
 npm install
 npm run start
